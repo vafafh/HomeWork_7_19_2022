@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Vefa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Vefa\\.nuget\\packages"
+    ]
+  }
+}
